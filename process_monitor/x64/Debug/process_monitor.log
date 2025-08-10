@@ -1,0 +1,3 @@
+﻿  process_monitor.cpp
+C:\Users\onurs\OneDrive\Masaüstü\process_monitor\process_monitor\process_monitor.cpp(334,98): warning C4244: 'bağımsız değişken': 'DWORD_PTR' - 'DWORD' dönüşümü; veri kaybı olabilir
+  process_monitor.vcxproj -> C:\Users\onurs\OneDrive\Masaüstü\process_monitor\process_monitor\x64\Debug\process_monitor.exe
